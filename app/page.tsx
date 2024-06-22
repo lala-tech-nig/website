@@ -7,10 +7,6 @@ const page = () => {
     <>
       <Navbar />
       <Lamp />
-      <Lamp />
-      <Lamp />
-      <Lamp />
-      <Lamp />
     </>
   )
 }
